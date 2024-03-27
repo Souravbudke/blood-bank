@@ -46,7 +46,7 @@ if you are running the project locally, the project folder should be placed in t
 ### To login to the application
 - As admin
 
-    username:   SuperAdmin
+    username:   ProjectDBMS
     
     password:   12345678
   
